@@ -12,6 +12,8 @@
     <title>Meals</title>
 </head>
 <body>
+<h3><a href="index.html">Home</a></h3>
+<hr>
 <div>
     <div>
         <a href="add">Add meal</a>
